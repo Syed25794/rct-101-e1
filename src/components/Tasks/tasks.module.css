@@ -1,7 +1,17 @@
 .tasks {
-  /* sample */
+  width: 400px;
+  background-color: color;
+  margin: auto;
 }
 
 .empty {
-  /* sample */
+  width: 400px;
+  margin: auto;
+}
+.tasks_div{
+  display: flex;
+  height: 30px;
+}
+button{
+  margin: 5px;
 }

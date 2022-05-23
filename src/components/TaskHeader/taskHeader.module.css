@@ -1,3 +1,6 @@
 .taskHeader {
-  /* Sample */
+  width: 400px;
+  height: 150px;
+  background-color: mediumaquamarine;
+  margin: auto;
 }
